@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = davidattar10@gmail.com
+	name = David Attar
